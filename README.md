@@ -14,7 +14,6 @@ Hi, I'm **Kalyan Ch**!
 ## 🌐 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://my-port-folio-khaki-chi.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyan021004)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalyan021004)
 
 ---
 
