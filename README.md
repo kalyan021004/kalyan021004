@@ -12,7 +12,6 @@ Hi, I'm **Kalyan Ch**!
 
 
 
-🔧 I’m currently working on enhancing my GitHub-clone project !
 
 
 ---
